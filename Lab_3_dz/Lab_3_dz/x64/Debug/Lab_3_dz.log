@@ -1,0 +1,4 @@
+﻿  Lab_3_dz.c
+C:\MyCProjects\Lab_3_dz\Lab_3_dz.c(13,8): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\MyCProjects\Lab_3_dz\Lab_3_dz.c(14,8): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Lab_3_dz.vcxproj -> C:\MyCProjects\Lab_3_dz\x64\Debug\Lab_3_dz.exe
